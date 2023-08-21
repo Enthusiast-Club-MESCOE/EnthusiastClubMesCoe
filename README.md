@@ -1,2 +1,1 @@
-# EnthusiastClubMesCoe
-Official Website of Enthusiast Club
+# EC-Web
